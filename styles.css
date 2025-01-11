@@ -1,0 +1,107 @@
+header{
+    max-width: 1140px;
+    width: 100%;
+    height: 72px;
+}
+
+body {
+    margin: 0;
+    
+}
+
+nav {
+    width: 980px;
+    margin-left: 80px;
+    
+    
+}
+
+#nextmove {
+    width: 173.8px;
+    margin-right: 150px;
+    vertical-align: bottom;
+}
+
+nav p {
+    display: inline-block;
+    margin-right: 20px;
+    margin-bottom: 13px;
+    font-size: 18px;
+}
+
+nav input {
+    width: 105px;
+    padding: 8px 16px;
+    border: 1px solid #AC00FF;
+    border-radius: 8px;
+    background-color: #e9d7fe;
+    color: #884bfe;
+    font-size: 14px; 
+    text-align: center;
+    margin-left: 150px;
+}
+
+#card1 {
+    max-width: 841px;
+    width: 100%;
+    
+    margin-left: 150px;
+    margin-top: 136px;
+}
+
+h1 {
+    font-size: 64px;
+    width: 720px;
+    color: #323232;
+}
+
+#card1 p {
+    width: 841px;
+    font-size: 24px;
+    color: #323232;
+    
+    
+}
+
+#card1 input {
+    width: 204px;
+    height: 54px;
+    background-color: #5C3BAE;
+    color: white;
+    border-radius: 8px;
+    padding: 16px 24px;
+}
+
+#play {
+    width: 194px;
+    height: 32px;
+    display: inline;
+    margin-left: 24px;
+    vertical-align: middle;
+}
+
+#play p {
+    width: 150px;
+    display: inline;
+    vertical-align: top;
+    color: #4D3491;
+    text-decoration: underline solid;
+    margin-left: 12px;
+}
+
+#cards {
+    width: 1311px;
+    height: 761px;
+    display: inline;
+    
+}
+
+#cards img {
+    width: 1311px;
+    height: 761;
+    margin-left: 205px;
+    margin-bottom: 20px;
+    
+}
+
+
